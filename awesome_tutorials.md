@@ -10,4 +10,5 @@
    
 - course & slides
     - cs231n: http://cs231n.stanford.edu
+    - https://pages.stat.wisc.edu/~sraschka/teaching/
     
