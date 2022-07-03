@@ -2,8 +2,11 @@
 
 ## 1. bert
 
-- multi head attention
-    - Q, K, V matrix
+- bert encoder
+    - multi head attention
+        - Q, K, V matrix
+        
+- bert pooler 
 
 ## 2. pytorch
 
