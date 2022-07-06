@@ -17,7 +17,6 @@
 - huggingface/transformers
 
 
-
 ## 3. modality
 
 - CLIP：Contrastive Language Image Pretraining
