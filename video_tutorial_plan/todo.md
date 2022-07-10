@@ -42,15 +42,7 @@
         - [ ] inputs/feature_maps
         - [ ] weights
 
-## 3. tutorials based
-
-- blog
-    - []()
-- youtube
-    - []()
-- bilibili
-    - []()
 
 
-## 4. projs
+## 3. projs
 
