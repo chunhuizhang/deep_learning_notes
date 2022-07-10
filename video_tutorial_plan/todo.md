@@ -2,6 +2,8 @@
 
 ## 1. bert
 
+- [x] tokenizer
+- [x] embedding
 - [ ] bert encoder
     - multi head attention
         - Q, K, V matrix
@@ -9,7 +11,7 @@
  
 - [ ] attention mask
         
-- [ ] bert pooler 
+- [x] bert pooler 
 
 - [ ] tasks
     - [] 完形填空；
@@ -39,3 +41,16 @@
     - processing
         - [ ] inputs/feature_maps
         - [ ] weights
+
+## 3. tutorials based
+
+- blog
+    - []()
+- youtube
+    - []()
+- bilibili
+    - []()
+
+
+## 4. projs
+
