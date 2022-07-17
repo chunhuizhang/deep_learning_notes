@@ -1,4 +1,14 @@
 
+
+|  模型簇    |  模型        | 特征向量维度 |
+|  ----     | ----        | ----        |
+| resnet    | ResNet18    |   512       |
+| resnet    | Resnet101   |   1024      |
+| bert      | bert-base   |   768       |
+| bert      | bert-large  |   1024      |
+
+
+
 ## 1. cv
 
 - torchvision
