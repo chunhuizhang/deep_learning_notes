@@ -7,8 +7,8 @@
 | resnet    | Resnet50    |   2048          | 3 layer deep  |
 | resnet    | Resnet101   |   2048          | 3 layer deep  | 
 | resnet    | Resnet152   |   2048          | 3 layer deep  | 
-| bert      | bert-base   |   768           |   | 
-| bert      | bert-large  |   1024          |   | 
+| bert      | bert-base   |   768           | 12 hidden layers  | 
+| bert      | bert-large  |   1024          | 24 hidden layers  | 
 | bert      | distilbert  |   768           |   |
 
 
