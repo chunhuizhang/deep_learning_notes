@@ -1,12 +1,18 @@
 
 
-|  模型簇    |  模型        | 特征向量维度 |
-|  ----     | ----        | ----        |
-| resnet    | ResNet18    |   512       |
-| resnet    | Resnet101   |   1024      |
-| bert      | bert-base   |   768       |
-| bert      | bert-large  |   1024      |
+|  模型簇    |  模型        | 特征向量维度      |
+|  ----     | ----        | ----            |
+| resnet    | ResNet18    |   512           |
+| resnet    | ResNet34    |   512           |
+| resnet    | Resnet50    |   2048          |   
+| resnet    | Resnet101   |   2048          |
+| resnet    | Resnet152   |   2048          |
+| bert      | bert-base   |   768           |
+| bert      | bert-large  |   1024          |
+| bert      | distilbert  |   768           |
 
+
+- [resnet](https://algorithmia.com/algorithms/imageclassification/ResNetFeatureExtraction/docs)
 
 
 ## 1. cv
