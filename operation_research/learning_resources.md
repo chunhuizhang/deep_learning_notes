@@ -35,3 +35,10 @@
         - 遗传算法
     - 邻域搜索：
     
+    
+- misc
+    - game theory
+    - graph theory
+
+
+    
