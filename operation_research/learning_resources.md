@@ -15,14 +15,21 @@
 ## 2. key topics
 
 - 对偶理论
+
 - 凸优化
     - 拉格朗日乘子法
     - KKT条件
+
 - 二阶
     - 牛顿法
     - 共轭迭代法
+
+- robust optimization
+    - distribution robust optimization
+    
 - 动态规划
     - 背包问题
+
 - 启发式算法
     - TSP
         - 遗传算法
