@@ -3,6 +3,7 @@
 
 - mnist: 0-9 手写字符（10分类，28*28）
 - fashion-mnist：服装类灰度图像识别（10分类，28*28）
+    - `['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']`
 
 ```python
 
