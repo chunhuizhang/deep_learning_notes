@@ -7,8 +7,9 @@
     - discounted cash flow (from fv)
     - （跨期）投资项目的比较；
 
-- IRR: internal rate of return
+- IRR: internal rate of return；
     - （跨期）投资项目的比较；
+    - 有时 irr 也叫真实利率（        actual rate）
     - irr 就是 npv = 0 时对应的利率, irr 是 break-even point
         ![npv与irr](../images/irr_npv.png)
 

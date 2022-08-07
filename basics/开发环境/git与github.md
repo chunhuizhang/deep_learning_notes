@@ -28,3 +28,5 @@
 - `.gitignore`
     - 屏蔽目录
         - `xx/`
+
+- `github.com` => `github1s.com` 
