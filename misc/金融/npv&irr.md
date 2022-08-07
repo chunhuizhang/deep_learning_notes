@@ -1,12 +1,10 @@
 
 
-
-
 ## 1. 概念及计算
 
-- npv: net present value
+- NPV: net present value
     - 金钱的时间价值：时间即金钱；
-    - discounted cash flow
+    - discounted cash flow (from fv)
     - （跨期）投资项目的比较；
 
 - IRR: internal rate of return
