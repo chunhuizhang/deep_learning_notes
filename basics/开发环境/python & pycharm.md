@@ -11,3 +11,7 @@
 - plugins
     - statistics
     - gittoolbox
+
+- view：试图
+    - version control
+        - log
