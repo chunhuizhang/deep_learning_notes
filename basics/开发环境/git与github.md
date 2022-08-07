@@ -18,6 +18,10 @@
     
     - `git reset --hard`
         - 强制在本地与远端对齐；
+        
+- git 命令
+    - `git branch`
+        - `-M`：
     
 ## 2. 实用
 
