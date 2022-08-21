@@ -24,3 +24,11 @@
 ## 2. 文件系统
 
 - `/dev/null`
+
+
+## 3. softwares
+
+- pycharm
+    - `snap find pycharm`
+    - `sudo snap install pycharm** --classic`
+

@@ -6,7 +6,7 @@
     - adr: American Depositary Receipt
         - 美国证券存托凭证
         - 国外公司的股票不能直接在美国上市交易，需要借助adr在美国交易；   
-        - ![adr](../images/adr.jpg)
+        - ![adr](../misc/images/adr.jpg)
     - 中概股
         - 境内运营实体，境外上市实体
     
