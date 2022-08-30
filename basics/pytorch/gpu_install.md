@@ -16,3 +16,11 @@
 ## 3. cuDnn
 
 
+## 4. check
+
+```python
+torch.version.cuda
+torch.cuda.get_device_name()
+```
+
+
